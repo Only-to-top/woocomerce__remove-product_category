@@ -1,0 +1,1 @@
+# wookomerce__remove-product_category
